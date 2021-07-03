@@ -9,7 +9,7 @@
 
 ## ScreenShot
 
-<img src="https://user-images.githubusercontent.com/83286066/120259462-f8505d80-c2ce-11eb-9e79-90d423a84073.png" width="250">　<img src="https://user-images.githubusercontent.com/83286066/120259476-01d9c580-c2cf-11eb-9ce9-794bb70d236c.png" width="250">　<img src="https://user-images.githubusercontent.com/83286066/120259468-fdada800-c2ce-11eb-9618-4f016e3fbcfd.png" width="250">　
+<img src="https://user-images.githubusercontent.com/83286066/124344659-9b69ff00-dc0e-11eb-9070-77e2c244e460.png" width="250">　<img src="https://user-images.githubusercontent.com/83286066/124344653-8db47980-dc0e-11eb-9468-23cd9a897205.png" width="250">　<img src="https://user-images.githubusercontent.com/83286066/124344639-770e2280-dc0e-11eb-9e9e-e521dc2130b5.png" width="250">　
 
 
  ＃電卓で計算した内容をすぐにメモできる 　
