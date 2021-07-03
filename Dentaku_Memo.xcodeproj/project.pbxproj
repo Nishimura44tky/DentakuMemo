@@ -13,6 +13,9 @@
 		F3FDC02C268F4ACE005698A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3FDC02A268F4ACE005698A3 /* Main.storyboard */; };
 		F3FDC02E268F4AD1005698A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3FDC02D268F4AD1005698A3 /* Assets.xcassets */; };
 		F3FDC031268F4AD1005698A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3FDC02F268F4AD1005698A3 /* LaunchScreen.storyboard */; };
+		F3FDC046268F5E20005698A3 /* MemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3FDC045268F5E20005698A3 /* MemoViewController.swift */; };
+		F3FDC048268F5E62005698A3 /* AddMemoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3FDC047268F5E62005698A3 /* AddMemoViewController.swift */; };
+		F3FDC04A268F5E95005698A3 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3FDC049268F5E95005698A3 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		F3FDC02D268F4AD1005698A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F3FDC030268F4AD1005698A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F3FDC032268F4AD1005698A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F3FDC045268F5E20005698A3 /* MemoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoViewController.swift; sourceTree = "<group>"; };
+		F3FDC047268F5E62005698A3 /* AddMemoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddMemoViewController.swift; sourceTree = "<group>"; };
+		F3FDC049268F5E95005698A3 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				F3FDC026268F4ACE005698A3 /* SceneDelegate.swift */,
 				F3FDC028268F4ACE005698A3 /* ViewController.swift */,
 				F3FDC02A268F4ACE005698A3 /* Main.storyboard */,
+				F3FDC045268F5E20005698A3 /* MemoViewController.swift */,
+				F3FDC047268F5E62005698A3 /* AddMemoViewController.swift */,
+				F3FDC049268F5E95005698A3 /* DetailViewController.swift */,
 				F3FDC02D268F4AD1005698A3 /* Assets.xcassets */,
 				F3FDC02F268F4AD1005698A3 /* LaunchScreen.storyboard */,
 				F3FDC032268F4AD1005698A3 /* Info.plist */,
@@ -137,7 +146,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F3FDC046268F5E20005698A3 /* MemoViewController.swift in Sources */,
+				F3FDC048268F5E62005698A3 /* AddMemoViewController.swift in Sources */,
 				F3FDC029268F4ACE005698A3 /* ViewController.swift in Sources */,
+				F3FDC04A268F5E95005698A3 /* DetailViewController.swift in Sources */,
 				F3FDC025268F4ACE005698A3 /* AppDelegate.swift in Sources */,
 				F3FDC027268F4ACE005698A3 /* SceneDelegate.swift in Sources */,
 			);
