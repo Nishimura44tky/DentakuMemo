@@ -27,7 +27,6 @@ class ViewController: UIViewController {
             label.text = label.text! + String(sender.tag-1)
             numberOnScreen = Int(label.text!)!
         }
-
     }
 
     @IBAction func buttons(_ sender: UIButton) {
@@ -76,5 +75,4 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
     }
-
 }
